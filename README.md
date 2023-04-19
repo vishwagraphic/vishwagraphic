@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-vishwagraphic/vishwagraphic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hi I am Viswanathan Devarajan. I am full stack developer with core as UI development. I mainly focus on react js and also can work on Angular, Node, and backend languages like Java, C#.
 --->
